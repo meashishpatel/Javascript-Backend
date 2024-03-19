@@ -12,7 +12,7 @@ npm init
 npm install express
 ```
 
-## Install dotenv using
+## Install dotenv using and read about dotenv on its website
 
 ```bash
 npm i dotenv

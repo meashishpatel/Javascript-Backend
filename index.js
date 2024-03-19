@@ -21,6 +21,10 @@ app.get("/celebration", (req, res) => {
   res.send("<h1> Celebration </h1>");
 });
 
+// app.listen(port, () => {
+//   console.log(`Example app listening on port ${port}`);
+// });
+
 app.listen(process.env.PORT, () => {
   console.log(`Example app listening on port ${port}`);
 });
